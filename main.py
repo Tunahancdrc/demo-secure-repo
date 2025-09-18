@@ -1,6 +1,6 @@
 # app.py
 def hello():
-    return "Hello Secure World!"
+    return "Merhaba Dünya!"
 
 if __name__ == "__main__":
     print(hello())
